@@ -1,6 +1,6 @@
 """
 Maturity Assessment Tool
-
+Author: Kiran Kumar
 A Streamlit-based application for conducting organizational maturity assessments
 across multiple categories, with scoring visualizations and trend analysis.
 """
